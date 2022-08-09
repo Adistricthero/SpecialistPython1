@@ -15,9 +15,11 @@
 ### Решение задачи
 
 ```python
-# TODO: you code here...
-```
-
+n = 3
+count = 0
+while n >= count:
+    print(n)
+    n -= 1
 ---
 
 ### Подсказки
